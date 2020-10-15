@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hashify.github.io/static/css/main.c5dee666.chunk.css",
+    "main.js": "/hashify.github.io/static/js/main.62175c2c.chunk.js",
+    "main.js.map": "/hashify.github.io/static/js/main.62175c2c.chunk.js.map",
+    "runtime-main.js": "/hashify.github.io/static/js/runtime-main.24c93e95.js",
+    "runtime-main.js.map": "/hashify.github.io/static/js/runtime-main.24c93e95.js.map",
+    "static/js/2.c3217fcf.chunk.js": "/hashify.github.io/static/js/2.c3217fcf.chunk.js",
+    "static/js/2.c3217fcf.chunk.js.map": "/hashify.github.io/static/js/2.c3217fcf.chunk.js.map",
+    "index.html": "/hashify.github.io/index.html",
+    "precache-manifest.a4b6e5e01f3c544a0d4bade72b6d1df2.js": "/hashify.github.io/precache-manifest.a4b6e5e01f3c544a0d4bade72b6d1df2.js",
+    "service-worker.js": "/hashify.github.io/service-worker.js",
+    "static/css/main.c5dee666.chunk.css.map": "/hashify.github.io/static/css/main.c5dee666.chunk.css.map",
+    "static/js/2.c3217fcf.chunk.js.LICENSE.txt": "/hashify.github.io/static/js/2.c3217fcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24c93e95.js",
+    "static/js/2.c3217fcf.chunk.js",
+    "static/css/main.c5dee666.chunk.css",
+    "static/js/main.62175c2c.chunk.js"
+  ]
+}
